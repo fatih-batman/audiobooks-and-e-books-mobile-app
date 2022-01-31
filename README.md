@@ -3,6 +3,7 @@ Audiobooks and E-books Application
 
 This is an java android application that enables users to listen to audiobooks and read e-books.
 This is a subscription-based service and subscribed users will have full access to the catalog. However, they can cancel their subscription at any time. 
+The app use firebase database.
 This app can be improved in this options:
 For audiobooks
     ● narration speed control to change the speed of the narration,
