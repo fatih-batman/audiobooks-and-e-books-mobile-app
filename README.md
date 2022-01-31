@@ -21,5 +21,6 @@ For audiobooks
     
     ● highlighting texts and adding notes to the pages, 
     
-    ● adjusting color temperature and brightness of the display to avoid eye strain. Additionally, users should be able to see their statistics about their listening and reading time.
+    ● adjusting color temperature and brightness of the display to avoid eye strain. 
+    Additionally, users should be able to see their statistics about their listening and reading time.
 
